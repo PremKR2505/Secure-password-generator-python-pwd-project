@@ -26,4 +26,4 @@ Libraries used
 
 
 ```bash
-git clone https://github.com/PremKR2505/python-pwd-project.git
+git clone https://github.com/PremKR2505/Secure-password-generator-python-pwd-project.git
